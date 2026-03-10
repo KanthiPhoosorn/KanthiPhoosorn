@@ -51,12 +51,3 @@ Target: **Georgia Tech 🇺🇸 | TU Delft 🇳🇱 | NYU 🇺🇸**
 </p>
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanthiPhoosorn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" width="495"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KanthiPhoosorn&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="495"/>
-</p>
