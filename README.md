@@ -1,5 +1,5 @@
-<h1 align="center">☁️🔐 Kanthi Phoosorn</h1>
-<h3 align="center">Cloud Security Engineer Aspirant | MFU Software Engineering | Class of 2028</h3>
+<h1 align="center"> Kanthi Phoosorn</h1>
+<h3 align="center">| MFU Software Engineering |</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/kanthi-phoosorn-238644392">
@@ -13,31 +13,6 @@
   </a>
 </p>
 
----
-
-### 🎯 Goal
-Become a **Cloud Security Engineer** by 2028  
-Target: **Georgia Tech 🇺🇸 | TU Delft 🇳🇱 | NYU 🇺🇸**
-
----
-
-### 🏆 Certifications
-| Cert | Status |
-|---|---|
-| Google Cybersecurity Certificate | ✅ Done (Mar 2026) |
-| AWS Cloud Practitioner | 🔄 In Progress |
-| AWS Solutions Architect Associate | ⬜ Planned |
-| CompTIA Security+ | ⬜ Planned |
-| AWS Security Specialty | ⬜ Planned |
-
----
-
-### 📊 Portfolio — 25 Projects
-![Progress](https://progress-bar.xyz/28/?title=Portfolio&width=400&color=00ff88)
-
-| Done | In Progress | Total |
-|---|---|---|
-| 7 ✅ | 0 🔄 | 25 🎯 |
 
 ---
 
